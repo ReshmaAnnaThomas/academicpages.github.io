@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Reshma Anna-Thomas"
   avatar           : "profile.png"
-  bio              : "Ph.D student"
+  bio              : "Ph.D student in Radio Astronomy"
   location         : "WV, United States"
   employer         :
   pubmed           : 
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : https://orcid.org/0000-0001-8057-0633
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : reshma_at
   vine             :
   weibo            :
   xing             :

@@ -1,7 +1,7 @@
 ---
 title: "A Highly Variable Magnetized Environment in a Fast Radio Burst Source"
 collection: publications
-permalink: /publication/paper1
+permalink: /publication/paper1.md
 
 
 venue: 'arXiv'

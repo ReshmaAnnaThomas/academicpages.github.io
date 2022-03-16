@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="https://ui.adsabs.harvard.edu/public-libraries/OUKtvXIFR6C-5THj23_Apw">my ADS Librarye</a>.</u>
+  You can also find my articles on <u><a href="https://ui.adsabs.harvard.edu/public-libraries/OUKtvXIFR6C-5THj23_Apw">my ADS Library</a>.</u>
 {% endif %}
 
 {% include base_path %}

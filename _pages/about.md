@@ -12,3 +12,5 @@ I am a third year Ph.D Student at West Virginia University. I work with [Dr. Sar
 
 You can see my publications [here](https://ui.adsabs.harvard.edu/public-libraries/OUKtvXIFR6C-5THj23_Apw) or on the Publications Tab on the top right. 
 
+
+As Linus Pauling once said, "The way to get good ideas is to get lots of ideas and throw the bad ones away”.

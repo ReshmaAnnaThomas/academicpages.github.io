@@ -1,11 +1,11 @@
 ---
-title: "A repeating fast radio burst in a dense environment with a compact persistent radio source"
+title: "A repeating fast radio burst associated with a persistent radio source"
 collection: publications
 permalink: publications/paper4
-date: 2021-10-01
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2110.07418.pdf'
+date: 2021-06-08
+venue: 'Nature'
+paperurl: 'https://www.nature.com/articles/s41586-022-04755-5'
 
 ---
 
-[Download paper here](https://arxiv.org/pdf/2110.07418.pdf)
+[Download paper here](https://www.nature.com/articles/s41586-022-04755-5)

@@ -1,3 +1,4 @@
+---
 
 title: "Scattering variability detected from the circumsource medium of FRB 20190520B"
 collection: publications

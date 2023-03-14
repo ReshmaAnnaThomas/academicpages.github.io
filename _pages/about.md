@@ -13,7 +13,7 @@ I am a 4th year Ph.D Candidate at West Virginia University. I work with [Dr. Sar
 You can see my publications [here](https://ui.adsabs.harvard.edu/public-libraries/OUKtvXIFR6C-5THj23_Apw) or on the Publications Tab on the top right. 
 
 I was born and brought up in a small southern Indian State called [Kerala](https://en.wikipedia.org/wiki/Kerala), where I did my schooling till 12th grade. 
-Driven by the passion for Physics, I moved to a little town called [Pondicherry](https://en.wikipedia.org/wiki/Pondicherry), about 550 km from my hometown to pursue a 5-year Integrated M.Sc in Physics. Pondicherry is a union territory of India and is a coastal town, which was once colonized by the French government. After my Masters degree, I flew to West Virginia, USA to study radio astronomy!
+Driven by the passion for Physics, I moved to a little town called [Pondicherry](https://en.wikipedia.org/wiki/Pondicherry), about 550 km from my hometown to pursue a 5-year Integrated M.Sc in Physics. Pondicherry is a union territory of India and is a coastal town, which was once a French colony. After my Masters degree, I flew to West Virginia, USA to study radio astronomy!
 
 My family was supportive throughout every step of my life and I consider myself lucky for that. I want to use my privilage to raise awareness among the under-privilaged people about the importance of education and financial independence, especially among women. 
 

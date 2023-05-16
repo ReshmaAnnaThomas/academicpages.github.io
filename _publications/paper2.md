@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Analysis of a Dense Sample of FRB 121102 Bursts"
 collection: publications
-permalink: /publication/paper2
+permalink: /publications/paper2
 date: 2021-07-12
 venue: 'The Astrophysical Journal'
 ---

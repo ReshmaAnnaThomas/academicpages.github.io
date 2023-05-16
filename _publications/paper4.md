@@ -4,8 +4,6 @@ collection: publications
 permalink: publications/paper4
 date: 2021-06-08
 venue: 'Nature'
-paperurl: 'https://www.nature.com/articles/s41586-022-04755-5'
-
 ---
 
 [Download paper here](https://www.nature.com/articles/s41586-022-04755-5)

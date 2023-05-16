@@ -4,8 +4,8 @@ title: "Scattering variability detected from the circumsource medium of FRB 2019
 collection: publications
 permalink: publications/paper8
 date: 2022-10-06
-venue: 'arXiv'
-paperurl: 'https://arxiv.org/pdf/2210.01975.pdf'
+venue: 'MNRAS'
+paperurl: 'https://academic.oup.com/mnras/article/519/1/821/6873844'
 
 ---
 

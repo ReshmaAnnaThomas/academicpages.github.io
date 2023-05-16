@@ -2,7 +2,7 @@
 ---
 layout: archive
 title: "First-author publications"
-permalink: /publications/
+permalink: /firstpublications/
 author_profile: true
 ---
 
@@ -20,5 +20,5 @@ author_profile: true
 layout: archive
 title: "publications"
 permalink: /publications/
-author_profile: false
+author_profile: true
 ---

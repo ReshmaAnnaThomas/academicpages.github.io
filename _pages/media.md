@@ -4,9 +4,8 @@ permalink: /media/
 title: "Media"
 author_profile: true
 redirect_from: 
-  - /media/
+  - /media
 ---
-{% include base_path %}
 
 You can see the media coverage on my paper here:
 

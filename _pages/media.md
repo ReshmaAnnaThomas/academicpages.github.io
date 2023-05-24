@@ -7,6 +7,7 @@ redirect_from:
   - /media/
   - /media.html
 ---
+{% include base_path %}
 
 You can see the media coverage on my paper here:
 

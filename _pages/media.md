@@ -1,10 +1,11 @@
 ---
+layout: archive
 permalink: /media/
 title: "Media"
 author_profile: true
+
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /media/
 ---
 
 You can see the media coverage on my paper here:

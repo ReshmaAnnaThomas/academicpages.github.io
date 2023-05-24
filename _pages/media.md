@@ -3,9 +3,6 @@ layout: archive
 permalink: /media/
 title: "Media"
 author_profile: true
-
-redirect_from: 
-  - /media/
 ---
 
 You can see the media coverage on my paper here:

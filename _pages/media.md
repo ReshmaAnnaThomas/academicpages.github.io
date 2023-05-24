@@ -5,7 +5,6 @@ title: "Media"
 author_profile: true
 redirect_from: 
   - /media/
-  - /media.html
 ---
 {% include base_path %}
 

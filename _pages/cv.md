@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Radio Astronomy, West Virginia University, USA, 2019-2024(expected)
+* Ph.D in Physics, West Virginia University, USA, 2019-2024(expected)
 
 * Integrated M.Sc Physics (Astrophysics Specialization), Pondicherry University, India, 2014-2019
 

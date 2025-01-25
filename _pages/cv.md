@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Physics, West Virginia University, USA, 2019-2024
+  
   _Supervisors_: _Prof. Sarah Burke-Spolaor, Prof. Duncan Lorimer, Prof. Maura McLaughlin, and Prof. Ryan M. Shannon_
 
 

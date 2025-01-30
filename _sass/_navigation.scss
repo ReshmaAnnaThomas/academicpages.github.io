@@ -179,6 +179,8 @@
 
   a {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;

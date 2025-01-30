@@ -70,7 +70,7 @@
   }
 
   li {
-    display: block;
+    display: flex;
     float: left;
     margin-left: -1px;
 
@@ -178,7 +178,7 @@
   background: #333;
 
   a {
-    display: block;
+    display: flex;
     margin: 0 1rem;
     padding: 0.5rem 0;
     color: $masthead-link-color;
